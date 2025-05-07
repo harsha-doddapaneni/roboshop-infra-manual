@@ -17,13 +17,13 @@ variable "instances" {
 
 variable "allow_all" {
     type = string
-    default = "sg-055c5104fcd66e6e5"
+    default = "Z0486123205W1JWLD2711"
 }
 
 variable "zone_id" {
-    default = "Z04180323PZ2QTLJV7PXL"
+    default = "Z0486123205W1JWLD2711"
 }
 
 variable "domain_name" {
-    default = "daws81s.space"
+    default = "doddapaneni.shop"
 }
